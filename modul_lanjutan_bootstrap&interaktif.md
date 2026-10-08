@@ -1,4 +1,4 @@
-# Modul Praktikum: Membangun Antarmuka Web Interaktif dengan Bootstrap
+# Modul Praktikum: Membangun Antarmuka Web Interaktif dengan Bootstrapp
 
 Pada praktikum ini, kita akan menggunakan **Bootstrap** (tersedia lengkap di [https://getbootstrap.com/](https://getbootstrap.com/)). Bootstrap adalah kerangka kerja (framework) CSS yang memungkinkan kita membuat desain web yang rapi, responsif, dan interaktif dengan sangat cepat.
 

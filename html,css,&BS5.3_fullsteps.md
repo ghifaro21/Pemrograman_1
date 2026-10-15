@@ -32,12 +32,12 @@ Buat folder utama proyek dengan nama `Blog1`. Di dalamnya buat subfolder dan fil
 Blog1/
 ├── index.html          <- Halaman utama (Home)
 ├── public/             <- Folder untuk gambar/aset
-│   ├── maskman.jpg
-│   ├── aduh (1).jpg
-│   ├── aduh (2).jpg
-│   ├── aduh (3).jpg
-│   ├── aduh (4).jpg
-│   └── aduh (5).jpg
+│   ├── pfp.jpg
+│   ├── gambar (1).jpg
+│   ├── gambar (2).jpg
+│   ├── gambar (3).jpg
+│   ├── gambar (4).jpg
+│   └── gambar (5).jpg
 ├── gallery/
 │   └── gallery.html    <- Halaman Gallery
 ├── about/

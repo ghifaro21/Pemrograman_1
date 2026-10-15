@@ -181,7 +181,7 @@ Navbar dan footer dipakai di **semua halaman**. Copy-paste bagian ini ke setiap 
 <!-- Navbar Start -->
 <nav class="navbar navbar-expand-lg">
   <div class="container">
-    <a class="navbar-brand fw-bold" href="index.html">MyBlog</a>
+    <a class="navbar-brand fw-bold" href="index.html">NamaBlog</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -196,10 +196,10 @@ Navbar dan footer dipakai di **semua halaman**. Copy-paste bagian ini ke setiap 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+          <a class="nav-link active" aria-current="page" href="...">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="gallery/gallery.html">Gallery</a>
+          <a class="nav-link" href="...">Gallery</a>
         </li>
         <li class="nav-item dropdown">
           <a
@@ -212,8 +212,8 @@ Navbar dan footer dipakai di **semua halaman**. Copy-paste bagian ini ke setiap 
             More
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="about/about.html">About</a></li>
-            <li><a class="dropdown-item" href="contact/contact.html">Contact</a></li>
+            <li><a class="dropdown-item" href="...">About</a></li>
+            <li><a class="dropdown-item" href="...">Contact</a></li>
           </ul>
         </li>
       </ul>
@@ -281,7 +281,7 @@ Karena tiap halaman ada di folder berbeda, link harus disesuaikan:
 <!-- Footer Start -->
 <footer>
   <div class="container">
-    <p class="mb-0">© 2024 MyBlog · Ilham Taufiq Ghifari. All rights reserved.</p>
+    <p class="mb-0">© 2024 MyBlog · Nama. All rights reserved.</p>
   </div>
 </footer>
 <!-- Footer End -->
@@ -320,7 +320,7 @@ Tulis kode ini di `index.html`, tepat setelah tag penutup navbar `</nav>`:
       <div class="col-md-7">
         <h1>Welcome to My Blog! 👋</h1>
         <p>
-          Halo! Saya <strong>Ilham Taufiq Ghifari</strong>, mahasiswa Data Science di ULBI.
+          Halo! Saya <strong>Nama</strong>, mahasiswa Data Science di ULBI.
           Blog ini berisi catatan, karya, dan pengalaman saya sehari-hari.
         </p>
         <a href="about/about.html" class="btn btn-custom me-2">About Me</a>
@@ -330,7 +330,7 @@ Tulis kode ini di `index.html`, tepat setelah tag penutup navbar `</nav>`:
       <!-- Kolom gambar (kanan) - 5 dari 12 kolom -->
       <div class="col-md-5 text-center mt-4 mt-md-0">
         <img
-          src="public/maskman.jpg"
+          src="..."
           class="hero-img"
           alt="Profile picture"
         />
@@ -391,7 +391,7 @@ Tulis kode ini di `index.html`, tepat setelah hero section:
     <div class="col">
       <div class="card h-100">
         <img
-          src="public/aduh (1).jpg"
+          src="..."
           class="card-img-top"
           style="height: 200px; object-fit: cover;"
           alt="Post 1"
@@ -413,7 +413,7 @@ Tulis kode ini di `index.html`, tepat setelah hero section:
     <div class="col">
       <div class="card h-100">
         <img
-          src="public/aduh (2).jpg"
+          src="..."
           class="card-img-top"
           style="height: 200px; object-fit: cover;"
           alt="Post 2"
@@ -435,7 +435,7 @@ Tulis kode ini di `index.html`, tepat setelah hero section:
     <div class="col">
       <div class="card h-100">
         <img
-          src="public/aduh (3).jpg"
+          src="..."
           class="card-img-top"
           style="height: 200px; object-fit: cover;"
           alt="Post 3"
@@ -531,7 +531,7 @@ Tulis kode ini di `gallery/gallery.html`, setelah navbar:
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img
-        src="../public/aduh (1).jpg"
+        src="..."
         class="d-block w-100 carousel-img"
         alt="Gallery photo 1"
       />
@@ -542,7 +542,7 @@ Tulis kode ini di `gallery/gallery.html`, setelah navbar:
     </div>
     <div class="carousel-item">
       <img
-        src="../public/aduh (2).jpg"
+        src="..."
         class="d-block w-100 carousel-img"
         alt="Gallery photo 2"
       />
@@ -553,7 +553,7 @@ Tulis kode ini di `gallery/gallery.html`, setelah navbar:
     </div>
     <div class="carousel-item">
       <img
-        src="../public/aduh (3).jpg"
+        src="..."
         class="d-block w-100 carousel-img"
         alt="Gallery photo 3"
       />
@@ -639,7 +639,7 @@ Setelah carousel, tambahkan kartu foto di bawahnya:
     <div class="col">
       <div class="card">
         <img
-          src="../public/aduh (4).jpg"
+          src="..."
           class="card-img-top"
           alt="Photo 4"
         />
@@ -655,7 +655,7 @@ Setelah carousel, tambahkan kartu foto di bawahnya:
     <div class="col">
       <div class="card">
         <img
-          src="../public/aduh (5).jpg"
+          src="....jpg"
           class="card-img-top"
           alt="Photo 5"
         />

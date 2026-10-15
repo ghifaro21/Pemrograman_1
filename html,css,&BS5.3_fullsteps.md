@@ -1,10 +1,6 @@
 # 📘 Modul Praktikum: Membuat
 
-```
-Personal
-```
-
-Blog dengan HTML, CSS & Bootstrap 5.3
+Personal Blog dengan HTML, CSS & Bootstrap 5.3
 
 **Topik:** HTML, CSS, Bootstrap 5.3
 **Tujuan:** Mahasiswa mampu membangun sebuah website blog personal multi-halaman
